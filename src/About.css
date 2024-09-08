@@ -1,0 +1,15 @@
+#about {
+  text-align: left; /* Center align the text and image */
+  padding: 20px; /* Add some padding around the section */
+}
+
+#profilepic {
+  width: 150px; /* Set a fixed width for the profile picture */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 25%; /* Make the image circular */
+  border: 2px solid #ddd; /* Add a border around the image */
+  margin-top: 10px; /* Add some space above the image */
+}
+p{
+
+}
